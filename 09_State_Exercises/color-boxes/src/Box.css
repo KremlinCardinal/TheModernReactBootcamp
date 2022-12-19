@@ -1,0 +1,6 @@
+.Box {
+    width: 20%;
+    aspect-ratio: 1/1;
+    cursor: pointer;
+    display: inline-block;
+}
